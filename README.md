@@ -1,7 +1,7 @@
 # Lapdog
 [![Build status](https://travis-ci.com/USER/PROJECT)](https://travis-ci.org/USER)
 
-Slack Bot built to handle a variety of on-call related operations
+Slack slash command endpoints for SQS/S3 message management
 
 ## Features
 
