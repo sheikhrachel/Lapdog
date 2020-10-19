@@ -1,0 +1,3 @@
+BUCKET_NAME = ""
+QUEUE_NAME = ""
+SQS_QUEUE_URL = ""
